@@ -1,1 +1,1 @@
-# it-solera-internship
+# it-solera-internship-projects
